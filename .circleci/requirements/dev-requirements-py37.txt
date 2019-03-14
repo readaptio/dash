@@ -11,3 +11,4 @@ requests[security]
 flake8
 pylint==2.2.2
 astroid==2.1.0
+dash-component-system-0.0.1rc1.tar.gz
